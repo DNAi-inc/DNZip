@@ -353,5 +353,5 @@ tests/
 
 ## License
 
-Apache License 2.0. See `LICENSE` (or the license section in `pyproject.toml`) for details.
+
 
