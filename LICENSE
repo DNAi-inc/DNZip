@@ -27,151 +27,151 @@
       including but not limited to software source code, documentation
       source, and configuration files.
 
-      "Object" form shall mean任何 form resulting from mechanical
-      transformation或 translation of a Source form, including but
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
       not limited to compiled object code, generated documentation,
       and conversions to other media types.
 
-      "Work" shall mean the work of authorship, whether in Source或
+      "Work" shall mean the work of authorship, whether in Source or
       Object form, made available under the License, as indicated by a
-      copyright notice that is included in或 attached to the work
+      copyright notice that is included in or attached to the work
       (an example is provided in the Appendix below).
 
-      "Derivative Works" shall mean任何 work, whether in Source或 Object
-      form, that is基于 (或 derived from) the Work and for which the
-      editorial revisions, annotations, elaborations,或 other modifications
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
       represent, as a whole, an original work of authorship. For the purposes
       of this License, Derivative Works shall not include works that remain
-      separable from,或 merely link (或 bind by name) to the interfaces of,
+      separable from, or merely link (or bind by name) to the interfaces of,
       the Work and Derivative Works thereof.
 
-      "Contribution" shall mean任何 work of authorship, including
-      the original version of the Work and任何 modifications或 additions
-      to that Work或 Derivative Works thereof, that is intentionally
-      submitted to Licensor for inclusion in the Work by the版权 owner
-     或 by an individual或 Legal Entity authorized to提交 on behalf of
-      the版权 owner. For the purposes of this定义, "submitted"
-      means任何 form of电子, verbal,或书面 communication sent
-      to the Licensor或 its representatives, including but not limited to
-      communication on电子 mailing lists, source code control systems,
-      and issue tracking systems that are managed by,或 on behalf of, the
-      Licensor for the目的 of讨论 and improving the Work, but
-      excluding communication that is conspicuously marked或 otherwise
-      designated in写 by the版权 owner as "Not a Contribution."
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or additions
+      to that Work or Derivative Works thereof, that is intentionally
+      submitted to Licensor for inclusion in the Work by the copyright owner
+      or by an individual or Legal Entity authorized to submit on behalf of
+      the copyright owner. For the purposes of this definition, "submitted"
+      means any form of electronic, verbal, or written communication sent
+      to the Licensor or its representatives, including but not limited to
+      communication on electronic mailing lists, source code control systems,
+      and issue tracking systems that are managed by, or on behalf of, the
+      Licensor for the purpose of discussing and improving the Work, but
+      excluding communication that is conspicuously marked or otherwise
+      designated in writing by the copyright owner as "Not a Contribution."
 
-      "Contributor" shall mean Licensor and任何 individual或 Legal Entity
+      "Contributor" shall mean Licensor and any individual or Legal Entity
       on behalf of whom a Contribution has been received by Licensor and
       subsequently incorporated within the Work.
 
-   2. Grant of版权 License. Subject to the条款 and条件 of
-      this License, each Contributor hereby grants to You a永久,
-      worldwide, non-exclusive, no-charge, royalty-free,不可撤销
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
       copyright license to reproduce, prepare Derivative Works of,
       publicly display, publicly perform, sublicense, and distribute the
-      Work and such Derivative Works in Source或 Object form.
+      Work and such Derivative Works in Source or Object form.
 
-   3. Grant of Patent License. Subject to the条款 and条件 of
-      this License, each Contributor hereby grants to You a永久,
-      worldwide, non-exclusive, no-charge, royalty-free,不可撤销
-      (except as stated in this section)专利 license to make, have made,
-      use, offer to sell, sell, import,和 otherwise transfer the Work,
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
       where such license applies only to those patent claims licensable
       by such Contributor that are necessarily infringed by their
-      Contribution(s) alone或 by组合 of their Contribution(s)
+      Contribution(s) alone or by combination of their Contribution(s)
       with the Work to which such Contribution(s) was submitted. If You
-      institute专利 litigation against任何 entity (including a
-      cross-claim或 counterclaim in a lawsuit) alleging that the Work
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that the Work
       or a Contribution incorporated within the Work constitutes direct
-      or contributory专利 infringement, then任何专利 licenses
+      or contributory patent infringement, then any patent licenses
       granted to You under this License for that Work shall terminate
       as of the date such litigation is filed.
 
    4. Redistribution. You may reproduce and distribute copies of the
-      Work或 Derivative Works thereof in任何 medium, with或 without
-      modifications, and in Source或 Object form, provided that You
-      meet the following条件:
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
 
-      (a) You必须 give任何 other recipients of the Work或
+      (a) You must give any other recipients of the Work or
           Derivative Works a copy of this License; and
 
-      (b) You必须 cause任何 modified files to carry prominent notices
+      (b) You must cause any modified files to carry prominent notices
           stating that You changed the files; and
 
-      (c) You必须 retain, in the Source form of任何 Derivative Works
-          that You distribute, all版权, patent,商标, and
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
           attribution notices from the Source form of the Work,
-          excluding those notices that do not pertain to任何 part of
+          excluding those notices that do not pertain to any part of
           the Derivative Works; and
 
       (d) If the Work includes a "NOTICE" text file as part of its
-          distribution, then任何 Derivative Works that You distribute must
+          distribution, then any Derivative Works that You distribute must
           include a readable copy of the attribution notices contained
           within such NOTICE file, excluding those notices that do not
-          pertain to任何 part of the Derivative Works, in at least one
+          pertain to any part of the Derivative Works, in at least one
           of the following places: within a NOTICE text file distributed
-          as part of the Derivative Works; within the Source form或
-          documentation, if provided along with the Derivative Works;或,
+          as part of the Derivative Works; within the Source form or
+          documentation, if provided along with the Derivative Works; or,
           within a display generated by the Derivative Works, if and
-          wherever such第三方 notices normally appear. The contents
+          wherever such third-party notices normally appear. The contents
           of the NOTICE file are for informational purposes only and
           do not modify the License. You may add Your own attribution
           notices within Derivative Works that You distribute, alongside
-         或 as an addendum to the NOTICE text from the Work, provided
+          or as an addendum to the NOTICE text from the Work, provided
           that such additional attribution notices cannot be construed
           as modifying the License.
 
-      You may add Your own版权 statement to Your modifications and
-      may provide additional或不同的 license条款 and条件
-      for use, reproduction,或 distribution of Your modifications,或
-      for任何 such Derivative Works as a whole, provided Your use,
+      You may add Your own copyright statement to Your modifications and
+      may provide additional or different license terms and conditions
+      for use, reproduction, or distribution of Your modifications, or
+      for any such Derivative Works as a whole, provided Your use,
       reproduction, and distribution of the Work otherwise complies with
-      the条款 stated in this License.
+      the conditions stated in this License.
 
-   5. Submission of Contributions. Unless required by适用 law或
-      agreed to in写,任何 Contribution intentionally submitted for inclusion in the Work
-      by You to the Licensor shall be under the条款 and条件 of
-      this License, without任何 additional条款或条件.
-      Notwithstanding the above, nothing herein shall supersede或 modify
-      the条款 of任何 separate license agreement you may have executed
+   5. Submission of Contributions. Unless You explicitly state otherwise,
+      any Contribution intentionally submitted for inclusion in the Work
+      by You to the Licensor shall be under the terms and conditions of
+      this License, without any additional terms or conditions.
+      Notwithstanding the above, nothing herein shall supersede or modify
+      the terms of any separate license agreement you may have executed
       with Licensor regarding such Contributions.
 
-   6. 商标. This License does not grant permission to use the trade
-      names,商标, service marks,或 product names of the Licensor,
+   6. Trademarks. This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor,
       except as required for reasonable and customary use in describing the
       origin of the Work and reproducing the content of the NOTICE file.
 
-   7. Disclaimer of Warranty. Unless required by适用 law或
-      agreed to in写, Licensor provides the Work (and each
-      Contributor提供 its Contributions) on an "AS IS" BASIS,
-      WITHOUT WARRANTIES或 CONDITIONS OF ANY KIND, either express或
-      implied, including, without limitation,任何 warranties或条件
-      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY,或 FITNESS FOR A
+   7. Disclaimer of Warranty. Unless required by applicable law or
+      agreed to in writing, Licensor provides the Work (and each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied, including, without limitation, any warranties or conditions
+      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
       PARTICULAR PURPOSE. You are solely responsible for determining the
-      appropriateness of using或 redistributing the Work and assume任何
+      appropriateness of using or redistributing the Work and assume any
       risks associated with Your exercise of permissions under this License.
 
-   8. Limitation of Liability. In no event and under no legal理论,
-      whether in侵权 (包括疏忽), contract,或 otherwise,
-      unless required by适用 law (such as deliberate和 grossly
-      negligent acts)或 agreed to in写, shall任何 Contributor be
-      liable to You for damages, including任何 direct, indirect, special,
-      incidental,或 consequential damages of任何 character arising as a
-      result of this License或 out of the use或 inability to use the
+   8. Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and grossly
+      negligent acts) or agreed to in writing, shall any Contributor be
+      liable to You for damages, including any direct, indirect, special,
+      incidental, or consequential damages of any character arising as a
+      result of this License or out of the use or inability to use the
       Work (including but not limited to damages for loss of goodwill,
-      work stoppage, computer failure或 malfunction,或任何 and all
-      other commercial damages或 losses), even if such Contributor
-      has been advised of the可能性 of such damages.
+      work stoppage, computer failure or malfunction, or any and all
+      other commercial damages or losses), even if such Contributor
+      has been advised of the possibility of such damages.
 
-   9. Accepting Warranty或 Additional Liability. While redistributing
-      the Work或 Derivative Works thereof, You may choose to offer,
+   9. Accepting Warranty or Additional Liability. While redistributing
+      the Work or Derivative Works thereof, You may choose to offer,
       and charge a fee for, acceptance of support, warranty, indemnity,
-     或 other liability obligations and/or权利一致 with this
+      or other liability obligations and/or rights consistent with this
       License. However, in accepting such obligations, You may act only
-      on Your own behalf和 on Your sole责任, not on behalf
-      of任何 other Contributor, and only if You agree to indemnify,
-      defend,和 hold each Contributor harmless for任何 liability
-      incurred by,或 claims asserted against, such Contributor by reason
-      of your accepting任何 such warranty或 additional liability.
+      on Your own behalf and on Your sole responsibility, not on behalf
+      of any other Contributor, and only if You agree to indemnify,
+      defend, and hold each Contributor harmless for any liability
+      incurred by, or claims asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.
 
    END OF TERMS AND CONDITIONS
 
@@ -179,14 +179,14 @@
 
       To apply the Apache License to your work, attach the following
       boilerplate notice, with the fields enclosed by brackets "[]"
-      replaced with your own identifying信息. (Don't include
-      the brackets!)  The text应该 be enclosed in the appropriate
+      replaced with your own identifying information. (Don't include
+      the brackets!)  The text should be enclosed in the appropriate
       comment syntax for the file format. We also recommend that a
-      file或 class name和描述 of目的 be included on the
-      same "printed page" as the版权 notice for easier
-      identification within第三方 archives.
+      file or class name and description of purpose be included on the
+      same "printed page" as the copyright notice for easier
+      identification within third-party archives.
 
-   Copyright 2025 DNAi inc.
+   Copyright [yyyy] [name of copyright owner]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -194,10 +194,8 @@
 
        http://www.apache.org/licenses/LICENSE-2.0
 
-   Unless required by适用 law或 agreed to in写, software
+   Unless required by applicable law or agreed to in writing, software
    distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES或 CONDITIONS OF ANY KIND, either express或 implied.
-   See the License for the specific language governing permissions和
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
    limitations under the License.
-
-
