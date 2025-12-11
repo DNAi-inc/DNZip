@@ -1,6 +1,6 @@
 ## DNZIP - ZIP64 Python Library
 
-A pure Python ZIP/ZIP64 engine with a strongly tested core, no external dependencies, and a small built-in CLI.
+A pure Python compression formats engine, no external dependencies, and a small built-in CLI.
 
 - **Language**: Python 3.8+
 - **Package name**: `dnzip` (previously `zip64py`)
