@@ -24,7 +24,7 @@ import io
 import zlib
 from typing import BinaryIO, Optional
 
-from .constants import COMP_STORED, COMP_DEFLATE, COMPRESSION_STORED, COMPRESSION_DEFLATE, FLAG_DATA_DESCRIPTOR, FLAG_ENCRYPTED
+from .constants import COMP_STORED, COMP_DEFLATE, COMPRESSION_STORED, COMPRESSION_DEFLATE, FLAG_DATA_DESCRIPTOR, FLAG_ENCRYPTED, FLAG_UTF8
 from .errors import ZipCompressionError, ZipCrcError, ZipFormatError, ZipUnsupportedFeature
 from .structures import (
     EndOfCentralDirectory,
@@ -41,6 +41,20 @@ from .structures import (
     parse_zip64_extra_field,
 )
 from .utils import crc32, read_exact
+
+
+def _decode_filename(filename: bytes, flags: int) -> str:
+    """Decode a member name according to the ZIP general-purpose flags.
+
+    ZIP archives without the UTF-8 flag use CP437 for member names. Archives
+    with the flag set must contain valid UTF-8.
+    """
+    if flags & FLAG_UTF8:
+        try:
+            return filename.decode("utf-8")
+        except UnicodeDecodeError as exc:
+            raise ZipFormatError("Filename marked as UTF-8 contains invalid UTF-8") from exc
+    return filename.decode("cp437")
 
 
 class ZipReader:
@@ -241,16 +255,9 @@ class ZipReader:
         for _ in range(num_entries):
             cd_header = parse_central_directory_header(self._file)
 
-            # Decode filename (assume UTF-8 if flag is set, otherwise try UTF-8 and fall back to CP437)
+            # Decode the name according to the ZIP general-purpose flags.
             flags = cd_header.flags
-            if flags & 0x0800:  # UTF-8 flag
-                filename = cd_header.filename.decode("utf-8", errors="replace")
-            else:
-                try:
-                    filename = cd_header.filename.decode("utf-8", errors="replace")
-                except UnicodeDecodeError:
-                    # Fall back to CP437 or latin-1
-                    filename = cd_header.filename.decode("latin-1", errors="replace")
+            filename = _decode_filename(cd_header.filename, flags)
 
             # Normalize path separators (use forward slash for consistency)
             # This matches the writer's behavior and ensures consistent entry names
